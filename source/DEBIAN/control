@@ -1,0 +1,6 @@
+Package: mytextinfolder
+Version: 1.1.0
+Architecture: all
+Depends: bash,coreutils,grep
+Maintainer: Pesti Tamás <ptamas2002@gmail.com>
+Description: List file lines matched a specific regural expression (or simple string) in a folder.
