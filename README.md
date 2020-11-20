@@ -12,7 +12,7 @@ It's just a simple script to search for specific parts of a source code.
 And you will see all mysqli connections. ;)
 
 ## Installation
-- You can either [download](https://github.com/tamas646/mybel/raw/main/mytextinfolder_1.1.0_all.deb) and install the deb package or use the source code and setup it yourself.
+- You can either [download](https://github.com/tamas646/mytextinfolder/raw/main/mytextinfolder_1.1.0_all.deb) and install the deb package or use the source code and setup it yourself.
 
 - If you wish, you can install it from my apt repository too:
 
